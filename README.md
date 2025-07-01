@@ -25,14 +25,14 @@ TechFlow is a modern, responsive JAMstack website built with **Next.js 15**, **B
 
 ## 📁 Folder Structure
 
-techflow_Jamstack/
-├── components/ # Reusable components (Layout, etc.)
-├── pages/ # index.js, about.js, contact.js
-├── public/ # Static assets (favicon, icons)
-├── styles/ # Global CSS
-├── next.config.js # Static export config
-├── .gitignore # Ignore node_modules, out/, etc.
-└── README.md
+- techflow_Jamstack/
+- ├── components/ # Reusable components (Layout, etc.)
+- ├── pages/ # index.js, about.js, contact.js
+- ├── public/ # Static assets (favicon, icons)
+- ├── styles/ # Global CSS
+- ├── next.config.js # Static export config
+- ├── .gitignore # Ignore node_modules, out/, etc.
+- └── README.md
 
 ---
 
